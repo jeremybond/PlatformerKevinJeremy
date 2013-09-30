@@ -1,0 +1,38 @@
+Concept Platformer:
+
+
+
+/////////////////////////////////
+Concept 1:
+
+Type:2D Platformer
+Style: TileBased
+
+Descriptie Spel:
+Het spel zit in een box aan de voorkant, waneer je in een deur gaat aan de rechterkant
+draait de box zich naar links. zodat je de rechterkant van vooraf ziet. verder is alles basic platformer like
+/////////////////////////
+//////////////////////////
+
+/////////////////////////////////
+Concept 2:
+
+Type 2.5D Platformer
+Style: TileBased
+
+Descriptie: level layout als bij de Kirby games.
+ga naar het einde van het level om het spel te halen.
+/////////////////////////////////////////////
+/////////////////////////////////////////////
+
+//////////////////////////////////
+Concept 3:
+
+Type 2D Platformer/Arena Like
+Style: Tilebased
+
+Descriptie: Levels bestaan uit verschillende kamers, doel 
+is om alle monsters in een kamer te verslaan zodat je naar de volgende toe kan.
+////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////
+
